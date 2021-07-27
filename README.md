@@ -1,5 +1,3 @@
-# VANILLA JS SNAKE
+# Fariati Snake Game
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/fariati/pen/mdRpEYP](https://codepen.io/fariati/pen/mdRpEYP).
-
-This is a snake game I made with Vanilla Javascript.
+This is a snake game made by Fariati with Vanilla JavaScript. Original URL: [https://codepen.io/fariati/pen/mdRpEYP](https://codepen.io/fariati/pen/mdRpEYP).
